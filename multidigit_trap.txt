@@ -1,0 +1,33 @@
+6 + 9
+
+1 : elem: 6
+num_holder: 6
+op_ctr = 0
+output: 
+
+2 : elem: +
+num_holder:
+stack: +  
+op_ctr = 1
+output: 6
+
+3 : elem: 9
+
+num_holder: 9
+stack: + 
+op_ctr = 0
+output: 6
+
+69 + 420
+1 : elem: 6
+num_holder: 6
+op_ctr = 0
+
+2 : elem: 9
+num_holder: 6, 9
+op_ctr = 0
+
+3 : elem: +
+num_holder: 69
+op_ctr = 1
+
